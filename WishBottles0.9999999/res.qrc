@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/start"/>
+    <qresource prefix="/">
+        <file>images/star2.png</file>
+        <file>images/star3.png</file>
+        <file>images/star4.png</file>
+        <file>images/star5.png</file>
+        <file>icons/xing.png</file>
+        <file>icons/xinghe.png</file>
+        <file>icons/xingzuhe.png</file>
+        <file>backgrounds/bck1.png</file>
+        <file>backgrounds/bck2.png</file>
+        <file>backgrounds/bck3.png</file>
+        <file>backgrounds/bck4.jpg</file>
+        <file>backgrounds/bck5.jpg</file>
+        <file>backgrounds/bck6.png</file>
+        <file>backgrounds/bck7.jpg</file>
+        <file>backgrounds/log2.gif</file>
+        <file>backgrounds/log3.gif</file>
+        <file>backgrounds/log4.gif</file>
+        <file>backgrounds/log5.gif</file>
+        <file>backgrounds/log6.gif</file>
+        <file>backgrounds/log7.gif</file>
+        <file>icons/denglu.png</file>
+        <file>icons/fanhui.png</file>
+        <file>icons/zhuandao.png</file>
+        <file>icons/zhuce.png</file>
+        <file>backgrounds/bck8.jpg</file>
+        <file>backgrounds/bck9.jpg</file>
+        <file>backgrounds/start4.gif</file>
+        <file>icons/home.png</file>
+        <file>backgrounds/1.png</file>
+        <file>backgrounds/3.png</file>
+        <file>backgrounds/chill-night-2.png</file>
+        <file>backgrounds/nature-1.png</file>
+        <file>backgrounds/nature-4-dribbble.png</file>
+        <file>backgrounds/csshow.jpg</file>
+        <file>backgrounds/lorr.jpg</file>
+        <file>backgrounds/lorr2.jpg</file>
+        <file>backgrounds/welcome.jpg</file>
+        <file>backgrounds/xd.jpg</file>
+        <file>backgrounds/xd2.jpg</file>
+        <file>backgrounds/xd3.jpg</file>
+        <file>backgrounds/xh.jpg</file>
+        <file>backgrounds/xh2.jpg</file>
+        <file>backgrounds/log9.gif</file>
+    </qresource>
+    <qresource prefix="/background"/>
+</RCC>

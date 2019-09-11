@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Login.qml</file>
+        <file>XD.qml</file>
+        <file>Login_success.qml</file>
+        <file>Login_fail.qml</file>
+        <file>Login_notconnect.qml</file>
+        <file>Client.qml</file>
+        <file>Register.qml</file>
+        <file>Register_suc.qml</file>
+        <file>Register_fail.qml</file>
+        <file>Register_chk.qml</file>
+        <file>welcome.qml</file>
+        <file>Client_show.qml</file>
+        <file>Show_pinglun.qml</file>
+        <file>Woyao_PL.qml</file>
+    </qresource>
+</RCC>
